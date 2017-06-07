@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label>Agente</label>
+        <name>Agent__c</name>
+        <picklistValues>
+            <masterLabel>Agent1</masterLabel>
+            <translation><!-- Agent1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agent2</masterLabel>
+            <translation><!-- Agent2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agent3</masterLabel>
+            <translation><!-- Agent3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agent4</masterLabel>
+            <translation><!-- Agent4 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label>NEWMala Escalacion</label>
+        <name>Bad_Escalation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Branch --></label>
+        <name>Branch__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case Feature --></label>
+        <name>Case_Feature__c</name>
+        <picklistValues>
+            <masterLabel>Authentication</masterLabel>
+            <translation><!-- Authentication --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Branch Management Permissions</masterLabel>
+            <translation><!-- Branch Management Permissions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Continuous Integration</masterLabel>
+            <translation><!-- Continuous Integration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Deployment</masterLabel>
+            <translation><!-- Deployment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Deployment Flows</masterLabel>
+            <translation><!-- Deployment Flows --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Environment</masterLabel>
+            <translation><!-- Environment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Git Repository</masterLabel>
+            <translation><!-- Git Repository --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Git Snapshot</masterLabel>
+            <translation><!-- Git Snapshot --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Org Credential</masterLabel>
+            <translation><!-- Org Credential --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Org Differences</masterLabel>
+            <translation><!-- Org Differences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Permissions</masterLabel>
+            <translation><!-- Permissions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Permissions &amp; Notifications</masterLabel>
+            <translation><!-- Permissions &amp; Notifications --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pre/Post Build Automation</masterLabel>
+            <translation><!-- Pre/Post Build Automation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Projects</masterLabel>
+            <translation><!-- Projects --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Promotions</masterLabel>
+            <translation><!-- Promotions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reports &amp; Dashboards</masterLabel>
+            <translation><!-- Reports &amp; Dashboards --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Snapshot Differences</masterLabel>
+            <translation><!-- Snapshot Differences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sprints</masterLabel>
+            <translation><!-- Sprints --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>User Stories</masterLabel>
+            <translation><!-- User Stories --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>User Story</masterLabel>
+            <translation><!-- User Story --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Case Reason Custom --></label>
+        <name>Case_Reason_Custom__c</name>
+        <picklistValues>
+            <masterLabel>Branch Management</masterLabel>
+            <translation><!-- Branch Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cancelation</masterLabel>
+            <translation><!-- Cancelation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Change Management</masterLabel>
+            <translation><!-- Change Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Continuous Integration</masterLabel>
+            <translation><!-- Continuous Integration --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Copado Core</masterLabel>
+            <translation><!-- Copado Core --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>General</masterLabel>
+            <translation><!-- General --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Licenses</masterLabel>
+            <translation><!-- Licenses --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Renewal</masterLabel>
+            <translation><!-- Renewal --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Case SHI --></label>
+        <name>Case_SHI__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check1 --></label>
+        <name>Check1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check2 --></label>
+        <name>Check2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check3 --></label>
+        <name>Check3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check4 --></label>
+        <name>Check4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check5 --></label>
+        <name>Check5__c</name>
+    </fields>
+    <fields>
+        <label><!-- Elisa --></label>
+        <name>Elisa__c</name>
+    </fields>
+    <fields>
+        <label>Numero Requerido ingenieria</label>
+        <name>EngineeringReqNumber__c</name>
+    </fields>
+    <fields>
+        <label>Comentarios Escalacion</label>
+        <name>Escalation_Feedback__c</name>
+    </fields>
+    <fields>
+        <label>NEWTiempo Ahora</label>
+        <name>Now_Time__c</name>
+    </fields>
+    <fields>
+        <label>Potencial</label>
+        <name>PotentialLiability__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label>NEWProducto</label>
+        <name>Product__c</name>
+        <picklistValues>
+            <masterLabel>GC1020</masterLabel>
+            <translation><!-- GC1020 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC1040</masterLabel>
+            <translation><!-- GC1040 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC1060</masterLabel>
+            <translation><!-- GC1060 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC3020</masterLabel>
+            <translation><!-- GC3020 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC3040</masterLabel>
+            <translation><!-- GC3040 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC3060</masterLabel>
+            <translation><!-- GC3060 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC5020</masterLabel>
+            <translation><!-- GC5020 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC5040</masterLabel>
+            <translation><!-- GC5040 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GC5060</masterLabel>
+            <translation><!-- GC5060 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Required Number --></label>
+        <name>Required_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- SHI Test --></label>
+        <name>SHI_Test__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Violation --></label>
+        <name>SLAViolation__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label>Problema Primavera</label>
+        <name>Spring17Issue__c</name>
+    </fields>
+    <fields>
+        <label>Urgenciaaaa</label>
+        <name>Urgency__c</name>
+        <picklistValues>
+            <masterLabel>Not Urgent</masterLabel>
+            <translation><!-- Not Urgent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Quite Urgent</masterLabel>
+            <translation><!-- Quite Urgent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Really Urgent</masterLabel>
+            <translation><!-- Really Urgent --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Urgent</masterLabel>
+            <translation><!-- Urgent --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- profile test --></label>
+        <name>profile_test__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Case Layout1 --></label>
+        <name>Case_Layout1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record type 2 --></label>
+        <name>Record_type_2</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record type 3 --></label>
+        <name>Record_type_3</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record type 4 --></label>
+        <name>Record_type_4</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Sales Case --></label>
+        <name>Sales_Case</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- UpsellCrosssellOpportunity --></label>
+        <name>UpsellCrosssellOpportunity</name>
+    </webLinks>
+</CustomObjectTranslation>

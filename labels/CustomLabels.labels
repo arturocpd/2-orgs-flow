@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Do_not_translate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Do not translate</shortDescription>
+        <value>Do not translate1</value>
+    </labels>
+    <labels>
+        <fullName>Do_not_translate2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Do not translate2</shortDescription>
+        <value>Do not translate this custom label please.</value>
+    </labels>
+    <labels>
+        <fullName>Translate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Translate</shortDescription>
+        <value>Translate.</value>
+    </labels>
+    <labels>
+        <fullName>Translate_this</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Translate this</shortDescription>
+        <value>Translate this custom label.</value>
+    </labels>
+</CustomLabels>
